@@ -1,0 +1,23 @@
+:root{
+    --bg-color : #332232;
+}
+
+*{
+    padding :0px; ;
+    margin: 0px;
+}
+
+
+.subheader{
+  display: flex;
+}
+
+.search-bar{
+    display: flex;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    
+}
